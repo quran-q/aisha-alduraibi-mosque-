@@ -372,6 +372,18 @@
       "nationality": "يمني",
       "submittedAt": "2026-08-02T12:15:02.262Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785673222210_v0n88",
+      "name": "محمد",
+      "nationalId": "11",
+      "fatherPhone": "5034",
+      "studentPhone": "—",
+      "birthDate": "2004-08-02",
+      "educationLevel": "جامعي",
+      "nationality": "سعودي",
+      "submittedAt": "2026-08-02T12:20:22.210Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
