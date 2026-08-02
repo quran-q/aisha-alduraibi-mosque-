@@ -359,6 +359,18 @@
       "nationality": "اليمن",
       "submittedAt": "2026-08-02T12:08:00.809Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785672902262_20kle",
+      "name": "اسامة علي",
+      "nationalId": "055555",
+      "fatherPhone": "05558",
+      "studentPhone": "—",
+      "birthDate": "2026-08-04",
+      "educationLevel": "جامعي",
+      "nationality": "يمني",
+      "submittedAt": "2026-08-02T12:15:02.262Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
