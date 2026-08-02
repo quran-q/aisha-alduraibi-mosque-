@@ -457,6 +457,18 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T13:50:44.020Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785678805719_geb8b",
+      "name": "مهند",
+      "nationalId": "2558",
+      "fatherPhone": "825",
+      "studentPhone": "—",
+      "birthDate": "2010-08-17",
+      "educationLevel": "جامعي",
+      "nationality": "سئودي",
+      "submittedAt": "2026-08-02T13:53:25.719Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
