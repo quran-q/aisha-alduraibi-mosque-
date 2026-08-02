@@ -287,6 +287,18 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T11:02:50.397Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785671051481_dp3hd",
+      "name": "قلثلث",
+      "nationalId": "٥٤٥٤٥٥٤",
+      "fatherPhone": "٤٥٤٥٤٣٣٥",
+      "studentPhone": "—",
+      "birthDate": "2026-09-04",
+      "educationLevel": "ابتدائي",
+      "nationality": "لبيلي",
+      "submittedAt": "2026-08-02T11:44:11.481Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
