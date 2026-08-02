@@ -183,24 +183,6 @@
       "history": []
     },
     {
-      "id": "std_1785599200619",
-      "name": "بكر باحاذق",
-      "nationalId": "474747477",
-      "teacherId": "t1",
-      "completedJuz": [],
-      "history": [
-        {
-          "date": "2026-08-02",
-          "attendance": "حاضر",
-          "memorization": "—",
-          "review": "—",
-          "stopPoint": "—",
-          "evaluation": "—",
-          "notes": "تسجيل حضور جماعي"
-        }
-      ]
-    },
-    {
       "id": "std_1785610872698",
       "name": "لوي",
       "nationalId": "٣٤٣٤٥٣",
@@ -290,7 +272,9 @@
       "nationality": "اليمن"
     }
   ],
-  "deletedStudents": [],
+  "deletedStudents": [
+    "std_1785599200619"
+  ],
   "pendingRegistrations": [
     {
       "id": "reg_1785668570397_m70zf",
@@ -302,18 +286,6 @@
       "educationLevel": "ثانوي",
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T11:02:50.397Z",
-      "status": "pending"
-    },
-    {
-      "id": "reg_1785670263157_hlb47",
-      "name": "تاياياضا",
-      "nationalId": "٧٧٩٧٩٩٧٩٧٩٧",
-      "fatherPhone": "٩٧٧٩٩٧٩٧٧٩",
-      "studentPhone": "٨٨٩٩٨٩٨",
-      "birthDate": "2026-09-03",
-      "educationLevel": "متوسط",
-      "nationality": "تتتتت",
-      "submittedAt": "2026-08-02T11:31:03.157Z",
       "status": "pending"
     }
   ],
