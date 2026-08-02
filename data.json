@@ -432,6 +432,18 @@
       "nationality": "نبنبتبنبت",
       "submittedAt": "2026-08-02T12:57:46.292Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785678571865_byjk0",
+      "name": "همام",
+      "nationalId": "44ف44",
+      "fatherPhone": "24ف44ف",
+      "studentPhone": "4ف",
+      "birthDate": "2026-09-09",
+      "educationLevel": "ثانوي",
+      "nationality": "يمني",
+      "submittedAt": "2026-08-02T13:49:31.865Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
