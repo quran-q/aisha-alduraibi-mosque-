@@ -303,6 +303,18 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T11:02:50.397Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785670263157_hlb47",
+      "name": "تاياياضا",
+      "nationalId": "٧٧٩٧٩٩٧٩٧٩٧",
+      "fatherPhone": "٩٧٧٩٩٧٩٧٧٩",
+      "studentPhone": "٨٨٩٩٨٩٨",
+      "birthDate": "2026-09-03",
+      "educationLevel": "متوسط",
+      "nationality": "تتتتت",
+      "submittedAt": "2026-08-02T11:31:03.157Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
