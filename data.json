@@ -326,7 +326,10 @@
       "nationality": "يمني"
     }
   ],
-  "deletedStudents": [],
+  "deletedStudents": [
+    "std_1785603058105",
+    "std_1785599200619"
+  ],
   "pendingRegistrations": [
     {
       "id": "reg_1785668570397_m70zf",
