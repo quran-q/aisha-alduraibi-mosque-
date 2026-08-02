@@ -296,6 +296,20 @@
       "birthDate": "2013-08-01",
       "educationLevel": "ابتدائي",
       "nationality": "سعودي"
+    },
+    {
+      "id": "std_1785692017333",
+      "name": "ياسر",
+      "nationalId": "٣٤٤٢٣٤٢٣",
+      "teacherId": "ب",
+      "track": "صيفي",
+      "completedJuz": [],
+      "history": [],
+      "fatherPhone": "٤٣٢٣٤٣",
+      "studentPhone": "٤٣٤٣٢٢٣٤",
+      "birthDate": "2026-09-09",
+      "educationLevel": "ثانوي",
+      "nationality": "سوداني"
     }
   ],
   "deletedStudents": [
@@ -481,25 +495,13 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T15:46:33.007Z",
       "status": "pending"
-    },
-    {
-      "id": "reg_1785691989867_3aup8",
-      "name": "ياسر",
-      "nationalId": "٣٤٤٢٣٤٢٣",
-      "fatherPhone": "٤٣٢٣٤٣",
-      "studentPhone": "٤٣٤٣٢٢٣٤",
-      "birthDate": "2026-09-09",
-      "educationLevel": "ثانوي",
-      "nationality": "سوداني",
-      "track": "صيفي",
-      "submittedAt": "2026-08-02T17:33:09.867Z",
-      "status": "pending"
     }
   ],
   "processedRegistrations": [
     "reg_1785668063743_1wkkk",
     "reg_1785671051481_dp3hd",
     "reg_1785678805719_geb8b",
-    "reg_1785688866705_9clqj"
+    "reg_1785688866705_9clqj",
+    "reg_1785691989867_3aup8"
   ]
 }
