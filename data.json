@@ -396,6 +396,18 @@
       "nationality": "Jdhdhd",
       "submittedAt": "2026-08-02T12:48:57.648Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785674968301_52jtj",
+      "name": "Hshdhd",
+      "nationalId": "85555555",
+      "fatherPhone": "55555555",
+      "studentPhone": "55545555",
+      "birthDate": "2026-08-02",
+      "educationLevel": "متوسط",
+      "nationality": "Hhdhd",
+      "submittedAt": "2026-08-02T12:49:28.301Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
