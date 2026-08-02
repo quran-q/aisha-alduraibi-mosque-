@@ -275,22 +275,23 @@
       "teacherId": "ب",
       "completedJuz": [],
       "history": []
-    }
-  ],
-  "deletedStudents": [],
-  "pendingRegistrations": [
+    },
     {
-      "id": "reg_1785668063743_1wkkk",
+      "id": "std_1785669742491",
       "name": "سعد عمر عبدالله",
       "nationalId": "2019287333",
+      "teacherId": "t3",
+      "completedJuz": [],
+      "history": [],
       "fatherPhone": "032848477373",
       "studentPhone": "—",
       "birthDate": "2026-08-24",
       "educationLevel": "متوسط",
-      "nationality": "اليمن",
-      "submittedAt": "2026-08-02T10:54:23.743Z",
-      "status": "pending"
-    },
+      "nationality": "اليمن"
+    }
+  ],
+  "deletedStudents": [],
+  "pendingRegistrations": [
     {
       "id": "reg_1785668570397_m70zf",
       "name": "هاني",
@@ -302,19 +303,9 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T11:02:50.397Z",
       "status": "pending"
-    },
-    {
-      "id": "reg_1785669664311_7d2xf",
-      "name": "جمال",
-      "nationalId": "٨٨٧٧٦٦٦",
-      "fatherPhone": "٠٨٧٧",
-      "studentPhone": "—",
-      "birthDate": "2026-08-26",
-      "educationLevel": "ابتدائي",
-      "nationality": "سعودي",
-      "submittedAt": "2026-08-02T11:21:04.311Z",
-      "status": "pending"
     }
   ],
-  "processedRegistrations": []
+  "processedRegistrations": [
+    "reg_1785668063743_1wkkk"
+  ]
 }
