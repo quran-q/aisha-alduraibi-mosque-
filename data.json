@@ -444,6 +444,18 @@
       "nationality": "يمني",
       "submittedAt": "2026-08-02T13:49:31.865Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785678644020_5k8b8",
+      "name": "حسام",
+      "nationalId": "0484845",
+      "fatherPhone": "078484",
+      "studentPhone": "84848454",
+      "birthDate": "2026-08-09",
+      "educationLevel": "جامعي",
+      "nationality": "سعودي",
+      "submittedAt": "2026-08-02T13:50:44.020Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
