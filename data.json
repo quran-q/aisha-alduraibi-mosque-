@@ -270,6 +270,19 @@
       "birthDate": "2026-08-24",
       "educationLevel": "متوسط",
       "nationality": "اليمن"
+    },
+    {
+      "id": "std_1785673198877",
+      "name": "قلثلث",
+      "nationalId": "٥٤٥٤٥٥٤",
+      "teacherId": "ب",
+      "completedJuz": [],
+      "history": [],
+      "fatherPhone": "٤٥٤٥٤٣٣٥",
+      "studentPhone": "—",
+      "birthDate": "2026-09-04",
+      "educationLevel": "ابتدائي",
+      "nationality": "لبيلي"
     }
   ],
   "deletedStudents": [
@@ -286,18 +299,6 @@
       "educationLevel": "ثانوي",
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T11:02:50.397Z",
-      "status": "pending"
-    },
-    {
-      "id": "reg_1785671051481_dp3hd",
-      "name": "قلثلث",
-      "nationalId": "٥٤٥٤٥٥٤",
-      "fatherPhone": "٤٥٤٥٤٣٣٥",
-      "studentPhone": "—",
-      "birthDate": "2026-09-04",
-      "educationLevel": "ابتدائي",
-      "nationality": "لبيلي",
-      "submittedAt": "2026-08-02T11:44:11.481Z",
       "status": "pending"
     },
     {
@@ -374,6 +375,7 @@
     }
   ],
   "processedRegistrations": [
-    "reg_1785668063743_1wkkk"
+    "reg_1785668063743_1wkkk",
+    "reg_1785671051481_dp3hd"
   ]
 }
