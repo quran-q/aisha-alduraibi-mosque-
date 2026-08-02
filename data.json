@@ -420,6 +420,18 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T12:54:51.959Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785675466292_jr4jl",
+      "name": "كمال",
+      "nationalId": "٧٥٤٨٤٤٤٥٤",
+      "fatherPhone": "٨٤٨٤٨٤٨٤٨٤٥٤",
+      "studentPhone": "٥٧٥٤٥٤٥٤٥٤٥٤٥٤",
+      "birthDate": "2026-08-18",
+      "educationLevel": "جامعي",
+      "nationality": "نبنبتبنبت",
+      "submittedAt": "2026-08-02T12:57:46.292Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
