@@ -335,6 +335,18 @@
       "nationality": "اليمن",
       "submittedAt": "2026-08-02T11:58:22.541Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785672276010_8ew4m",
+      "name": "ثامر",
+      "nationalId": "٤٣٤٣",
+      "fatherPhone": "٣٤٤٣",
+      "studentPhone": "٤٣٣",
+      "birthDate": "2026-08-28",
+      "educationLevel": "ابتدائي",
+      "nationality": "سعودي",
+      "submittedAt": "2026-08-02T12:04:36.010Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
