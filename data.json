@@ -311,12 +311,22 @@
       "birthDate": "2026-09-09",
       "educationLevel": "ثانوي",
       "nationality": "سوداني"
+    },
+    {
+      "id": "std_1785699860172",
+      "name": "همام",
+      "nationalId": "44ف44",
+      "teacherId": "t3",
+      "completedJuz": [],
+      "history": [],
+      "fatherPhone": "24ف44ف",
+      "studentPhone": "4ف",
+      "birthDate": "2026-09-09",
+      "educationLevel": "ثانوي",
+      "nationality": "يمني"
     }
   ],
-  "deletedStudents": [
-    "std_1785603058105",
-    "std_1785599200619"
-  ],
+  "deletedStudents": [],
   "pendingRegistrations": [
     {
       "id": "reg_1785668570397_m70zf",
@@ -463,18 +473,6 @@
       "status": "pending"
     },
     {
-      "id": "reg_1785678571865_byjk0",
-      "name": "همام",
-      "nationalId": "44ف44",
-      "fatherPhone": "24ف44ف",
-      "studentPhone": "4ف",
-      "birthDate": "2026-09-09",
-      "educationLevel": "ثانوي",
-      "nationality": "يمني",
-      "submittedAt": "2026-08-02T13:49:31.865Z",
-      "status": "pending"
-    },
-    {
       "id": "reg_1785678644020_5k8b8",
       "name": "حسام",
       "nationalId": "0484845",
@@ -504,6 +502,7 @@
     "reg_1785671051481_dp3hd",
     "reg_1785678805719_geb8b",
     "reg_1785688866705_9clqj",
-    "reg_1785691989867_3aup8"
+    "reg_1785691989867_3aup8",
+    "reg_1785678571865_byjk0"
   ]
 }
