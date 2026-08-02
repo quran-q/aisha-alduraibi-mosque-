@@ -347,6 +347,18 @@
       "nationality": "سعودي",
       "submittedAt": "2026-08-02T12:04:36.010Z",
       "status": "pending"
+    },
+    {
+      "id": "reg_1785672480809_yzj1j",
+      "name": "رائد عمر",
+      "nationalId": "08545454545",
+      "fatherPhone": "04545454545",
+      "studentPhone": "—",
+      "birthDate": "2026-08-11",
+      "educationLevel": "جامعي",
+      "nationality": "اليمن",
+      "submittedAt": "2026-08-02T12:08:00.809Z",
+      "status": "pending"
     }
   ],
   "processedRegistrations": [
